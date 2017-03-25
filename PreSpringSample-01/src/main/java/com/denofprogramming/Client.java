@@ -10,6 +10,6 @@ public class Client {
 		final MessagePrinterService aMessagePrinter = new MessagePrinterService();		
 		aMessagePrinter.printMessage();
 		
-
+		//Comment to test GIT
 	}
 }
